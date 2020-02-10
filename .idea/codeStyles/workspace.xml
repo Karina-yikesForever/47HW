@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da7fb99d-d940-4ed0-80f4-e68782aef8c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47HW.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XcuzBYl8kBUXd0w1rFI1n9DPlU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/.idea/codeStyles" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da7fb99d-d940-4ed0-80f4-e68782aef8c9" name="Default Changelist" comment="" />
+      <created>1581357963166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581357963166</updated>
+      <workItem from="1581357969127" duration="1456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="122" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581359164891">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state x="122" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.704@0.23.1280.704" timestamp="1581359164891" />
+    <state x="251" y="23" key="CommitChangelistDialog2" timestamp="1581359552393">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state x="251" y="23" key="CommitChangelistDialog2/0.23.1280.704@0.23.1280.704" timestamp="1581359552393" />
+    <state x="525" y="235" key="Github.ShareDialog" timestamp="1581359253598">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state x="525" y="235" key="Github.ShareDialog/0.23.1280.704@0.23.1280.704" timestamp="1581359253598" />
+    <state x="466" y="48" key="Github.UntrackedFilesDialog" timestamp="1581359273790">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state x="466" y="48" key="Github.UntrackedFilesDialog/0.23.1280.704@0.23.1280.704" timestamp="1581359273790" />
+    <state width="1153" height="147" key="GridCell.Tab.0.bottom" timestamp="1581359487112">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state width="1153" height="147" key="GridCell.Tab.0.bottom/0.23.1280.704@0.23.1280.704" timestamp="1581359487112" />
+    <state width="1153" height="147" key="GridCell.Tab.0.center" timestamp="1581359487111">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state width="1153" height="147" key="GridCell.Tab.0.center/0.23.1280.704@0.23.1280.704" timestamp="1581359487111" />
+    <state width="1153" height="147" key="GridCell.Tab.0.left" timestamp="1581359487110">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state width="1153" height="147" key="GridCell.Tab.0.left/0.23.1280.704@0.23.1280.704" timestamp="1581359487110" />
+    <state width="1153" height="147" key="GridCell.Tab.0.right" timestamp="1581359487111">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state width="1153" height="147" key="GridCell.Tab.0.right/0.23.1280.704@0.23.1280.704" timestamp="1581359487111" />
+  </component>
+</project>
